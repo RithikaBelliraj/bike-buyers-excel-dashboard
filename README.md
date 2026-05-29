@@ -1,56 +1,48 @@
 # 📊 Bike Buyers Analysis Dashboard | Excel
 
-## 📌 Project Overview
+## Introduction
 
-This Excel dashboard project analyzes bike buyers data to identify customer purchasing patterns and demographic trends. The project uses data cleaning, pivot tables, and interactive dashboard visualizations to transform raw data into actionable business insights.
+Bike purchase decisions can be influenced by customer demographics, lifestyle factors, and purchasing behavior. This project analyzes bike buyers data to explore how variables such as age, income, occupation, commute distance, and demographic characteristics relate to bike purchasing patterns.
 
----
+## Business Task
 
-## 🎯 Project Objectives
+The objective of this analysis is to identify customer trends and behavioral factors associated with bike purchases in order to better understand the characteristics of customers more likely to purchase a bike.
 
-- Analyze customer demographics and buying behavior
-- Explore factors influencing bike purchases
-- Build an interactive dashboard using Excel
-- Summarize trends through pivot table analysis
-- Demonstrate Excel data analysis and visualization skills
+## Tools Used
 
----
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Dashboard Design
+* Data Cleaning
+* Data Transformation
+* Interactive Filtering / Slicers
 
-## 🛠️ Tools & Techniques Used
+## Project Workflow
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Dashboard Design
-- Data Cleaning
-- Data Transformation
-- Interactive Filtering / Slicers
+1. Data Cleaning and Preparation
+2. Data Transformation
+3. Pivot Table Analysis
+4. Dashboard Development
+5. Visualization and Insight Generation
 
----
+## Key Insights
 
-## 📚 Skills Demonstrated
+* Higher-income customer groups show stronger bike purchasing patterns, indicating a relationship between income level and purchase behavior.
+* Customers with shorter commute distances (especially 0–1 miles) demonstrate higher bike purchase activity compared to longer-distance commuters.
+* Middle-aged customers represent the strongest purchasing segment, showing higher bike buying activity than adolescent and older age groups.
+* Demographic factors such as gender and age reveal noticeable differences in customer purchasing behavior across customer segments.
 
-- Excel Dashboard Development
-- Data Cleaning
-- Pivot Table Analysis
-- Data Visualization
-- Business Analysis
-- Interactive Reporting
+## Dashboard Components
 
----
+* Customer Demographics Analysis
+* Purchase Behavior Insights
+* Income & Occupation Analysis
+* Dashboard Visualizations
+* Interactive Filters / Slicers
 
-## 📈 Dashboard Components
+## Project Files
 
-- Customer Demographics Analysis
-- Purchase Behavior Insights
-- Income & Occupation Analysis
-- Dashboard Visualizations
-- Interactive Filters / Slicers
-
----
-
-## 📂 Project Files
-
-| File Name | Description |
-|---|---|
+| File Name                          | Description                                                                           |
+| ---------------------------------- | ------------------------------------------------------------------------------------- |
 | `Bike_Buyers_Excel_Dashboard.xlsx` | Excel project file containing raw data, data preparation, pivot tables, and dashboard |
